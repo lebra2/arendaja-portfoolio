@@ -28,6 +28,11 @@
     src: url(../src/assets/fonts/Bangers.ttf);
 }
 
+@font-face {
+    font-family: "JetBrains";
+    src: url(../src/assets/fonts/Jet/JetBrainsMono-Regular.ttf);
+}
+
 .menuButtons {
     position: fixed;
     border-radius: 9999px;
