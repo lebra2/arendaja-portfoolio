@@ -8,7 +8,7 @@ import HomeButton from '../components/HomeButton.vue';
 </script>
 
 <template>
-    <div>
+    <div class="p-4">
         <Navigation />
         <div class="md:hidden">
             <HomeButton/>
